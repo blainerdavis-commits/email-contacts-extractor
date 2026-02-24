@@ -56,3 +56,17 @@ No cloud. No tracking. Just Python scripts and CSVs.
 ---
 
 Made by [Blaine Davis](https://twitter.com/blainerdavis)
+
+## Recent Updates (Feb 2026)
+
+- Added Google Takeout MBOX support for bulk email extraction
+- Improved deduplication and name parsing
+- Integration with CRM workflow (Obsidian vault)
+
+## Stats
+
+Used to process:
+- 7,777 emails → 831 contacts (Mute Email Export)
+- 20,651 contacts from SC email (4.3GB MBOX)
+- 1,100+ CRM records created
+
